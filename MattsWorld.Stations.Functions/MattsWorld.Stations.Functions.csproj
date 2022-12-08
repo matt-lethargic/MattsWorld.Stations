@@ -5,7 +5,7 @@
   <ItemGroup>    
     <PackageReference Include="FileHelpers" Version="3.2.7" />    
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.2" />    
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MattsWorld.Stations.Adapters.WebAppService\MattsWorld.Stations.Adapters.WebAppService.csproj" />
